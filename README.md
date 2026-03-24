@@ -1,12 +1,11 @@
-## Project Overviwe
-This project analyzes customer, order, product, and seller data from an online retail dataset to uncover key business insights.
-Using SQL and Python, the analysis focuses on customer behavior, sales performance, and market trends to guide business strategies.
+<img width="4023" height="253" alt="image" src="https://github.com/user-attachments/assets/470d9cf8-9b70-436a-acd5-aa3056dae5f2" /># E-Commerce Analysis- Navigating The Future Of Online Shopping
 
+## Digital Storefront Analytics
+A dynamic data analysis project involves studying customer purchases, products, payments, delivery, sales trends, and customer behavior to understand how an online business is performing. The main goal of this project is to find useful insights that can help improve sales, customer satisfaction, retention, and overall business decisions.Using SQL and Python, the analyst focuses on data validation, pipeline, models, eda and strategic part of process.
 ## Objectives 
-- To examining revenue, order value and growth trend accross different time period.
-- To identify top performing and low performing product category.
-- To understand spending behavior, payment mode, retention rate.
-- To visualise the business insights through python libraries
+- **Analyze Online Transaction-** The main goal is to understand the transaction pattern with different year, sales trend and customer spendings.
+- **Extract actionable insights-** Different dataset provides different pattern such as top-performing products, high value customers, revenue by state and city and year-over-year growth.
+- **Visualize Key Metrics-** Key metrics like revenue trend, customer activity, and top products need to show in interactive charts that can also help the stakeholders  to monitor their business easily.
 
 ## Tools & Technologies
 **Languages**: SQL, Python
