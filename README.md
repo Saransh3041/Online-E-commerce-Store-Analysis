@@ -39,5 +39,13 @@ A dynamic data analysis project involves studying customer purchases, products, 
 ## 6. Conclusion
 The project demonstrates an end-to-end data analysis process — from extraction and transformation to visualization and insight generation. Using SQL and Python, we derived meaningful patterns in customer behavior, product demand, and regional performance that can guide marketing and business strategies.
 
+## 7. Author
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
+
+
 
 
