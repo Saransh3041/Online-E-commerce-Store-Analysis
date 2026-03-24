@@ -29,14 +29,14 @@ A dynamic data analysis project involves studying customer purchases, products, 
     - Handled missing and null values by replacing them with 0 or "Unknown" where necessary.
     - Created a new table named Total Revenue by joining the orders table with the payments table.
 - **Key Business Highlights/Impact**
-      - The demand for number of orders in each month of 2018 are almost stagnant. There is no such a simple growth rate, peak or decline season.
-      - Customer Retention rate is only 1.6% over the six month time period shows the low customer engagement and loyalty.
-      - Health and Beauty category is a fastest growing category and contributed 9.1% of total revenue, indicating strong and increasing customer demand within this sector.
-      - Approx 52% of total orders were made using installment payment method.
-      - The relationship between product and price and demand appears to be relatively weak, indicating that changes in pricing limit the impact on purchasing.
-      - A significant portion of the customer base is clustered within one state (around 45%) , indicating strong regional dependency.
+    - The demand for number of orders in each month of 2018 are almost stagnant. There is no such a simple growth rate, peak or decline season.
+    - Customer Retention rate is only 1.6% over the six month time period shows the low customer engagement and loyalty.
+    - Health and Beauty category is a fastest growing category and contributed 9.1% of total revenue, indicating strong and increasing customer demand within this sector.
+    - Approx 52% of total orders were made using installment payment method.
+    - The relationship between product and price and demand appears to be relatively weak, indicating that changes in pricing limit the impact on purchasing.
+    - A significant portion of the customer base is clustered within one state (around 45%) , indicating strong regional dependency.
 
-## Conclusion
+## 6. Conclusion
 The project demonstrates an end-to-end data analysis process — from extraction and transformation to visualization and insight generation. Using SQL and Python, we derived meaningful patterns in customer behavior, product demand, and regional performance that can guide marketing and business strategies.
 
 
